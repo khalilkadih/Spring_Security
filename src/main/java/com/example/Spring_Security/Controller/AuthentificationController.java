@@ -1,8 +1,8 @@
-package com.example.generatetoken.Controller;
+package com.example.Spring_Security.Controller;
 
-import com.example.generatetoken.config.JwtUtil;
-import com.example.generatetoken.dao.Userdata;
-import com.example.generatetoken.dto.AuthenticationRequest;
+import com.example.Spring_Security.config.JwtUtil;
+import com.example.Spring_Security.dao.Userdata;
+import com.example.Spring_Security.dto.AuthenticationRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

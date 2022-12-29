@@ -1,9 +1,8 @@
-package com.example.generatetoken.Controller;
+package com.example.Spring_Security.Controller;
 
 
-import com.example.generatetoken.Service.ProductService;
-import com.example.generatetoken.domain.Product;
-import org.springframework.security.access.prepost.PostAuthorize;
+import com.example.Spring_Security.Service.ProductService;
+import com.example.Spring_Security.domain.Product;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

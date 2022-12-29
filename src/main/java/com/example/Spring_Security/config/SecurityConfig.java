@@ -1,6 +1,6 @@
-package com.example.generatetoken.config;
+package com.example.Spring_Security.config;
 
-import com.example.generatetoken.dao.Userdata;
+import com.example.Spring_Security.dao.Userdata;
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.context.annotation.Bean;

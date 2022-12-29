@@ -1,6 +1,6 @@
-package com.example.generatetoken;
+package com.example.Spring_Security;
 
-import com.example.generatetoken.dao.Userdata;
+import com.example.Spring_Security.dao.Userdata;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

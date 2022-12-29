@@ -1,7 +1,7 @@
-package com.example.generatetoken.repository;
+package com.example.Spring_Security.repository;
 
 
-import com.example.generatetoken.domain.OrderItem;
+import com.example.Spring_Security.domain.OrderItem;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

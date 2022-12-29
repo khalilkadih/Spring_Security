@@ -1,4 +1,4 @@
-package com.example.generatetoken.domain;
+package com.example.Spring_Security.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

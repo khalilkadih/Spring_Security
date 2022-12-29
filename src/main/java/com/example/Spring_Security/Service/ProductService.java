@@ -1,7 +1,7 @@
-package com.example.generatetoken.Service;
+package com.example.Spring_Security.Service;
 
-import com.example.generatetoken.domain.Product;
-import com.example.generatetoken.repository.ProductRepository;
+import com.example.Spring_Security.domain.Product;
+import com.example.Spring_Security.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

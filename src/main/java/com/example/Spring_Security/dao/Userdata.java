@@ -1,9 +1,9 @@
-package com.example.generatetoken.dao;
+package com.example.Spring_Security.dao;
 
-import com.example.generatetoken.domain.AppRole;
-import com.example.generatetoken.domain.AppUser;
-import com.example.generatetoken.repository.RoleRepository;
-import com.example.generatetoken.repository.UserRepository;
+import com.example.Spring_Security.domain.AppRole;
+import com.example.Spring_Security.domain.AppUser;
+import com.example.Spring_Security.repository.RoleRepository;
+import com.example.Spring_Security.repository.UserRepository;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;

@@ -1,4 +1,4 @@
-package com.example.generatetoken.dto;
+package com.example.Spring_Security.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
