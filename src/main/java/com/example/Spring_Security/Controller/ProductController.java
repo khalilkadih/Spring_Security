@@ -41,5 +41,8 @@ public class ProductController {
     public Optional<Product> findById( @PathVariable(value = "id") Long id){
         return productService.findProduct(id);
     }
+    /*public Optional<Product> findById( @PathVariable(value = "id") Long id){
+        return productService.findProduct(id);
+    }*/
 
 }
